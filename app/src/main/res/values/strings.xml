@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Cooking</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_starters">Starters</string>
+    <string name="title_main_course">Main Course</string>
+    <string name="title_dessert">Dessert</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_chat">Chat</string>
+    <string name="image">image</string>
+    <string name="Title">Title</string>
+    <string name="Description">Description</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="mediterranen">The Mediterranean Sea is surrounded by an extraordinarily diverse group of countries: Italy, France, and Spain to the north, Greece, Turkey, Israel, Lebanon, and Syria to the east, and to the south, the North African countries of Egypt, Tunisia, Morocco, Algeria, and Libya. This means that there isn’t a single “diet” that encompasses the entire Mediterranean region—the spice-laden dishes of Morocco bear little resemblance to the lemon and caper-laced cuisine of southern Italy. Rather, the Mediterranean diet is about what these cuisines have in common: a daily emphasis on vegetables and fruits, beans and lentils, whole grains, more seafood than meat and poultry, and heart-healthy olive oil. This is the essence of the Mediterranean way of eating.</string>
+    <string name="chicken">Just about any food can be fried, but in this course, we are going to turn our attention to one of the best fried foods: chicken. There’s something irresistible about the deep, golden brown crackly crust and contrasting juicy, moist interior that comes from cooking chicken in hot oil. This course will build on the techniques from the Fry Without Fear course by focusing on a variety of fried chicken recipes.</string>
+    <string name="icebox">Icebox pies get their name from the icebox where they were traditionally kept cool. These classic Southern recipes were traditionally easy to make, and they didn\'t need to be cooked, which was a relief in the heat of summer. However, these pies were also traditionally made with raw eggs, which is a no-no in many modern recipes. We have adapted our recipes for these classics in order to avoid eating raw eggs. In each of the desserts, you only need to turn on the oven to bake the crust. These pies can be made up to a day in advance, so they make a great addition to a summer gathering or picnic.</string>
+    <string name="essential_eaggs">As an ingredient, eggs are indispensable in the kitchen. They can bind, thicken, emulsify, clarify, and even leaven. They are also incredibly versatile on their own and can be prepared in a number of different ways: fried, scrambled, poached, hard-cooked, baked, shirred, and made into omelets and frittatas. Proper cooking technique is essential for perfectly cooked eggs. In this lesson, you will learn the basic methods for preparing eggs. You also will learn how to prepare a classic French omelet as well as an Italian frittata.</string>
+    <string name="crem">Although custard desserts usually require only a few basic ingredients, they often cause an undeserved amount of anxiety. Many of these recipes, such as crème brûlée, are restaurant classics, so there is an aura of mystery attached. We will demystify these recipes so you can enjoy them without visiting a fancy restaurant. You’ll learn how to make a water bath, prepare a basic custard, and walk through several classic custard-based recipes in both our photo and video tutorials.</string>
+    <string name="cook">In any cluttered kitchen, there are some pots and pans that gather dust and others that rarely get put away. After many years of careful testing, we\'ve identified the truly hardworking tools, and the unassuming, sturdy cast-iron skillet fits squarely in this category. It\'s an incredibly versatile, durable, and completely chemical-free way to cook. This consummate multitasking powerhouse is essential have on hand when the right recipe comes along—and you might not realize just how many recipes are perfect in cast iron. You\'ll learn some of those recipes, as well as why we find this skillet so indispensable, in this course.</string>
+
+</resources>
